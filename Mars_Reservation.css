@@ -4,6 +4,7 @@ ul {
     margin:0;
     padding:0;
     position: absolute;
+    left: 20%;
 }
 
 /*Create a horizontal list with spacing*/
@@ -16,33 +17,34 @@ li {
 /*Style for menu links*/
 li a {
     display:block;
-    min-width:140px;
-    height: 50px;
+    min-width:190px;
+    height: 44px;
     text-align: center;
     line-height: 50px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-    color: black;
-    background: darkorange;
+    color: floralwhite;
+    background: darkgrey;
     text-decoration: none;
 }
 
 /*Hover state for top level links*/
 li:hover a {
-    background: darkred;
+    background: orangered;
+    color: white;
 }
 
 /*Style for dropdown links*/
 li:hover ul a {
-    background: darkorange;
-    color: #2f3036;
+    background: darkgrey;
+    color: white;
     height: 40px;
     line-height: 40px;
 }
 
 /*Hover state for dropdown links*/
 li:hover ul a:hover {
-    background: darkred;
-    color: #fff;
+    background: orangered;
+    color: white;
 }
 
 /*Hide dropdown links until they are needed*/
@@ -66,17 +68,22 @@ li ul li a {
 /*Display the dropdown on hover*/
 ul li a:hover + .hidden, .hidden:hover {
     display: block;
+    left: 573px;
 }
 
 /*Style 'show menu' label button and hide it by default*/
 .show-menu {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-decoration: none;
-    color: #fff;
-    background: #19c589;
+    color: white;
+    background: darkgrey;
     text-align: center;
     padding: 10px 0;
     display: none;
+}
+.show-menu:hover {
+    background: orangered;
+    color: white;
 }
 
 /*Hide checkbox*/
