@@ -5,11 +5,17 @@
     <title>CSS Only Navigation Menu</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="Mars_Reservation.css">
-    <script type="text/javascript" href="JAVASCRIPT_FILE_NAME.js"></script>
+    <link rel="stylesheet" href="/path/to/unslider/dist/css/unslider.css">
+    <script src="jquery-2.1.4.min.js"></script>
+    <script src="/path/to/unslider.js"></script>
+    <link rel="stylesheet" href="/path/to/unslider/dist/css/unslider.css">
 </head>
 <body>
+
 <label for="show-menu" class="show-menu">Show Menu</label>
 <input type="checkbox" id="show-menu" role="button">
+
+<div class="nav">
 <ul id="menu">
     <li><a href="index.html">Home</a></li>
     <li>
@@ -27,6 +33,19 @@
     </li>
     <li><a href="contact.html">Contact</a></li>
 </ul>
+</div>
 
+<div class="my-slider">
+    <ul>
+        <li>My slide</li>
+        <li>Another slide</li>
+        <li>My last slide</li>
+    </ul>
+</div>
+<script>
+    jQuery(document).ready(function($) {
+        $('.my-slider').unslider();
+    });
+</script>
 </body>
 </html>
