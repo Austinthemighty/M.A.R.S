@@ -100,25 +100,37 @@ input[type=checkbox]:checked ~ #menu{
 
 /*Responsive Styles*/
 
-@media screen and (max-width : 760px){
+@media screen and (max-width : 760px) {
     /*Make dropdown links appear inline*/
     ul {
         position: static;
         display: none;
     }
+
     /*Create vertical spacing*/
     li {
         margin-bottom: 1px;
     }
+
     /*Make all menu links full width*/
     ul li, li a {
         width: 100%;
     }
+
     /*Display 'show menu' link*/
     .show-menu {
-        display:block;
+        display: block;
     }
 }
+<<<<<<< HEAD
 .slider{
 
+=======
+
+#n {
+    color: #2f3036; font-style: italic; font-size: smaller;
+}
+#mn {
+    color: #2f3036; font-style: italic; font-size: smaller;
+>>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
 }
