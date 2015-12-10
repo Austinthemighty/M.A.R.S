@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>Computers</title>
+    
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" href="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/css/bootstrap.min.css">
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.3/jquery.min.js"></script>
+    <script src="http://maxcdn.bootstrapcdn.com/bootstrap/3.3.5/js/bootstrap.min.js"></script>
+    
+    <link rel="stylesheet" type="text/css" href="css.css">
+  <!-- slideshow script-->  
+    <script type="text/javascript">
+    <!--
+    var image1=new Image()
+    image1.src="apple1.jpg"
+    var image2=new Image()
+    image2.src="apple2.jpg"
+    var image3=new Image()
+    image3.src="hazeltine1510.jpg"
+    var image4=new Image()
+    image4.src="ibmPcConvertable.jpg"
+    var image5=new Image()
+    image5.src="ibmPcConvertable2.jpg"
+    var image6=new Image()
+    image6.src="NeXT.png"
+    var image7=new Image()
+    image7.src="powermac.png"
+    var image8=new Image()
+    image8.src="macmini.jpg"
+    //-->
+    </script>
+    <!-- slideshow script end-->
+    
+</head>
+
+<body>
+
+<!--nav bar start-->
+<nav class="navbar navbar-inverse">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <a class="navbar-brand" href="index.html">The History Of The PC</a>
+    </div>
+    <div>
+      <ul id="ulNav" class="nav navbar-nav">
+        <li id="liNav"><a href="index.html">Home</a></li>
+        <li id="liNav"><a href="people.html">People</a></li>
+        <li id="liNav" class="active"><a href="#">Computers</a></li>
+      </ul>
+      <ul class="nav navbar-nav navbar-right">
+        <li><a href="404.html"><span class="glyphicon glyphicon-user"></span> Sign Up</a></li>
+        <li><a href="404.html"><span class="glyphicon glyphicon-log-in"></span> Login</a></li>
+      </ul>
+    </div>
+  </div>
+</nav>
+<!--nav bar end-->
+
+<div id="topSpacer"></div>
+
+<h1>Computers</h1>
+<div id="topSpacer20"</div>
+<!-- Slide show -->
+<div><img class="leftSpacer" src="stevejobsyoung.png" name="slide" id="slidePeople">
+<script type="text/javascript">
+<!--
+var step=1
+function slideit(){
+document.images.slide.src=eval("image"+step+".src")
+if(step<8)
+step++
+else
+step=1
+setTimeout("slideit()",5000)
+
+if (step == 1 + 1) {
+        document.getElementById("mytext").innerHTML = "Apple 1";
+    }
+    else if (step == 2 +1) {
+        document.getElementById("mytext").innerHTML = "Apple 2";
+    }
+    else if (step == 3 + 1) {
+        document.getElementById("mytext").innerHTML = "Hazeltine 1510";
+    }
+    else if (step == 4 + 1) {
+        document.getElementById("mytext").innerHTML = "IBM Pc Convertable";
+    }
+    else if (step == 5 + 1) {
+        document.getElementById("mytext").innerHTML = "IBM Pc Convertable";
+    }
+    else if (step == 6 + 1) {
+        document.getElementById("mytext").innerHTML = "NeXT";
+    }
+    else if (step == 7 + 1) {
+        document.getElementById("mytext").innerHTML = "POWER Mac";
+    }
+    else if (step < 8) {
+        document.getElementById("mytext").innerHTML = "Mac Mini";
+    }
+
+}
+slideit()
+//-->
+</script>
+<div id="mytext">Apple 1</div>
+<!--Slide show end-->
+</body>
+</html>
