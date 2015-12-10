@@ -115,3 +115,10 @@ input[type=checkbox]:checked ~ #menu{
         display: block;
     }
 }
+
+#n {
+    color: #2f3036; font-style: italic; font-size: smaller;
+}
+#mn {
+    color: #2f3036; font-style: italic; font-size: smaller;
+}
