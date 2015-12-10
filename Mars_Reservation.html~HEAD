@@ -1,15 +1,20 @@
-<!DOCTYPE html>
-<html lang="en">
+﻿<!DOCTYPE html>
+<html>
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
-    <title>M.A.R.S.</title>
+    <title>CSS Only Navigation Menu</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="Mars_Reservation.css">
-=======
-    <title></title>
->>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
+    <script type="text/javascript">
+
+        var slideimages = new Array()
+        slideimages[0] = new Image()
+        slideimages[0]
+    </script>
 </head>
 <body>
+<label for="show-menu" class="show-menu">Show Menu</label>
+<input type="checkbox" id="show-menu" role="button">
 <ul id="menu">
     <li><a href="index.html">Home</a></li>
     <li>
@@ -19,7 +24,7 @@
         <a href="Mars_Reservation.html">Reservations</a>
 
     </li>
-    <li><a href="#">About</a>
+    <li><a href="#">About ￬</a>
         <ul class="hidden">
             <li><a href="whoWeAre.html">Who We Are</a></li>
             <li><a href="whatWeDo.html">What We Do</a></li>
@@ -27,14 +32,6 @@
     </li>
     <li><a href="contact.html">Contact</a></li>
 </ul>
-<<<<<<< HEAD
-    <h1 id="who">Who we are</h1>
-=======
-    <h1>Who we are</h1>
->>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
-<p>we are teenagers in highschool trying to complete a project.
-Our staff would consist of expert planners and negotiators with scientific advisers who will run the actual mars launches if we had a staff.</p>
-
 
 </body>
 </html>

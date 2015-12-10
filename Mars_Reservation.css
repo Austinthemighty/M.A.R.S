@@ -68,7 +68,11 @@ li ul li a {
 /*Display the dropdown on hover*/
 ul li a:hover + .hidden, .hidden:hover {
     display: block;
+<<<<<<< HEAD
     left: 520px;
+=======
+    left: 573px;
+>>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
 }
 
 /*Style 'show menu' label button and hide it by default*/
