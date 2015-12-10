@@ -2,7 +2,6 @@
 <html>
 <head>
     <meta charset="UTF-8">
-<<<<<<< HEAD
     <title>CSS Only Navigation Menu</title>
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="Mars_Reservation.css">
@@ -10,12 +9,19 @@
     <script src="jquery-2.1.4.min.js"></script>
     <script src="/path/to/unslider.js"></script>
     <link rel="stylesheet" href="/path/to/unslider/dist/css/unslider.css">
-=======
-    <title>M.A.R.S.</title>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <link rel="stylesheet" href="Mars_Reservation.css">
-    <script src="jquery-2.1.4.min.js"></script>
->>>>>>> dce3cfc6861ca190ef28d2cb802cbf7c92fffcd1
+    <!-- Slideshow javascript beginning --->
+    <script>
+    var image1=new Image();
+    image1.src="images/img1.jpg";
+    var image2=new Image();
+    image2.src="images/img2.jpg";
+    var image3=new Image();
+    image3.src="images/img3.jpg";
+    var image4=new Image();
+    image4.src="images/mation_suit.jpg";
+    </script>
+    <!-- Slideshow Javascript End--->
+
 </head>
 <body>
 
@@ -28,10 +34,6 @@
     <li>
         <a href="news.html">News</a>
     </li>
-    <li>
-        <a href="Mars_Reservation.html">About</a>
-
-    </li>
     <li><a href="#">Reservation</a>
         <ul class="hidden">
             <li><a href="whoWeAre.html">Make Reservation</a></li>
@@ -41,39 +43,40 @@
     <li><a href="contact.html">Contact</a></li>
 </ul>
 </div>
-<<<<<<< HEAD
+<br>
+<br>
+<br>
+<!--Slideshow Text Beginning--->
+<div><img class="leftSpacer" src="blank.png" name="slide" id="slidePeople" height="360">
+    <script type="text/javascript">
+        <!--
+        var step=1
+        function slideit(){
+            document.images.slide.src=eval("image"+step+".src")
+            if(step<4)
+                step++
+            else
+                step=1
+            setTimeout("slideit()",5000)
 
-<div class="my-slider">
-    <ul>
-        <li>My slide</li>
-        <li>Another slide</li>
-        <li>My last slide</li>
-=======
-    <br>
-    <br>
-    <br>
-<style>
-    .myslider{
-        w
-    }
-</style>
+            if (step == 1 + 1) {
+                document.getElementById("mytext").innerHTML = "Apple 1";
+            }
+            else if (step == 2 + 1) {
+                document.getElementById("mytext").innerHTML = "Apple 2";
+            }
+            else if (step == 3 + 1) {
+                document.getElementById("mytext").innerHTML = "Hazeltine 1510";
+            }
+            else if (step == 4 + 1) {
+                document.getElementById("mytext").innerHTML = "IBM Pc Convertable";
+            }
 
-<div class="myslider">
-    <ul>
-        <li><img src="images/img1.jpg" width="500" height="500"></li>
-        <li><img src="images/img2.jpg"></li>
-        <li><img src="images/img3.jpg"></li>
->>>>>>> dce3cfc6861ca190ef28d2cb802cbf7c92fffcd1
-    </ul>
-</div>
-<script>
-    jQuery(document).ready(function($) {
-<<<<<<< HEAD
-        $('.my-slider').unslider();
-=======
-        $('#myslider').slideToggle();
->>>>>>> dce3cfc6861ca190ef28d2cb802cbf7c92fffcd1
-    });
-</script>
+        }
+        slideit()
+    </script>
+    <div id="mytext">Apple 1</div>
+<!--Slideshow Text Beginning-->
+
 </body>
 </html>
