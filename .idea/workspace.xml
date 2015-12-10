@@ -2,8 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aacb001d-e750-4ab3-a017-e734b3fac398" name="Default" comment="">
+<<<<<<< HEAD
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mars_Reservation.css" afterPath="$PROJECT_DIR$/Mars_Reservation.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+=======
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/contactStyleSheet.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.html" afterPath="$PROJECT_DIR$/contact.html" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="mars.iws" />
@@ -46,14 +51,20 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
+<<<<<<< HEAD
             <state vertical-scroll-proportion="-0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+            <state vertical-scroll-proportion="0.0">
+              <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
               <folding />
             </state>
           </provider>
         </entry>
       </file>
+<<<<<<< HEAD
       <file leaf-file-name="news.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/news.html">
           <provider selected="true" editor-type-id="text-editor">
@@ -118,8 +129,35 @@
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.0">
               <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+=======
+      <file leaf-file-name="Mars_Reservation.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Mars_Reservation.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
               <folding />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contact.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/contact.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.95230526">
+              <caret line="132" column="7" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="contactStyleSheet.css" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/contactStyleSheet.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -130,6 +168,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Html5" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -150,8 +189,13 @@
         <option value="$PROJECT_DIR$/About.html" />
         <option value="$PROJECT_DIR$/news.html" />
         <option value="$PROJECT_DIR$/Mars_Reservation.css" />
+<<<<<<< HEAD
         <option value="$PROJECT_DIR$/Reservation.html" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+        <option value="$PROJECT_DIR$/contactStyleSheet.css" />
+        <option value="$PROJECT_DIR$/contact.html" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       </list>
     </option>
   </component>
@@ -167,8 +211,9 @@
   </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
+    <option name="y" value="23" />
     <option name="width" value="1440" />
-    <option name="height" value="900" />
+    <option name="height" value="797" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -236,11 +281,16 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="DefaultHtmlFileTemplate" value="Html5" />
 <<<<<<< HEAD
+<<<<<<< HEAD
     <property name="FullScreen" value="true" />
 =======
     <property name="FullScreen" value="false" />
     <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file:///Users/session2/PhpstormProjects/MARS/About.html" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+    <property name="FullScreen" value="false" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -285,10 +335,14 @@
   </component>
   <component name="ToolWindowManager">
 <<<<<<< HEAD
+<<<<<<< HEAD
     <frame x="0" y="0" width="1440" height="900" extended-state="0" />
 =======
     <frame x="0" y="23" width="1440" height="799" extended-state="6" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+    <frame x="0" y="23" width="1440" height="797" extended-state="6" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -297,11 +351,15 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
 <<<<<<< HEAD
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+<<<<<<< HEAD
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16451149" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 =======
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.15972222" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.16452074" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="true" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
@@ -355,6 +413,7 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+<<<<<<< HEAD
 <<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
@@ -529,9 +588,12 @@
     </entry>
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
     <entry file="file://$PROJECT_DIR$/Mars_Reservation.css">
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
           <folding />
         </state>
       </provider>
@@ -598,11 +660,16 @@
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
+=======
+    <entry file="file://$PROJECT_DIR$/Mars_Reservation.css">
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+<<<<<<< HEAD
         </state>
       </provider>
     </entry>
@@ -646,6 +713,8 @@
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+=======
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
         </state>
       </provider>
     </entry>
@@ -658,16 +727,22 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/unslider-master/src/css/unslider.less">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.34366578">
           <caret line="17" column="4" selection-start-line="17" selection-start-column="4" selection-end-line="17" selection-end-column="4" />
 =======
+=======
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
     <entry file="file://$PROJECT_DIR$/Mars_Reservation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+<<<<<<< HEAD
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
           <folding />
         </state>
       </provider>
@@ -699,18 +774,24 @@
       </provider>
     </entry>
 <<<<<<< HEAD
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6701164">
           <caret line="38" column="7" selection-start-line="38" selection-start-column="7" selection-end-line="38" selection-end-column="7" />
 =======
     <entry file="file://$PROJECT_DIR$/whatWeDo.html">
+=======
+    <entry file="file://$PROJECT_DIR$/index.html">
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="24" column="56" selection-start-line="24" selection-start-column="56" selection-end-line="24" selection-end-column="56" />
+          <folding />
         </state>
       </provider>
     </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/whoWeAre.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -764,23 +845,40 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+=======
     <entry file="file://$PROJECT_DIR$/Mars_Reservation.css">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
-          <caret line="121" column="2" selection-start-line="121" selection-start-column="2" selection-end-line="121" selection-end-column="2" />
+          <caret line="20" column="17" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="17" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
           <folding />
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/contactStyleSheet.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+<<<<<<< HEAD
+          <caret line="121" column="2" selection-start-line="121" selection-start-column="2" selection-end-line="121" selection-end-column="2" />
+=======
+          <caret line="3" column="22" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
+          <folding />
+        </state>
+      </provider>
+    </entry>
+<<<<<<< HEAD
     <entry file="file://$PROJECT_DIR$/Reservation.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.86283183">
           <caret line="39" column="145" selection-start-line="39" selection-start-column="145" selection-end-line="39" selection-end-column="145" />
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+    <entry file="file://$PROJECT_DIR$/contact.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.95230526">
+          <caret line="132" column="7" selection-start-line="132" selection-start-column="7" selection-end-line="132" selection-end-column="7" />
+>>>>>>> 9e3dc0e2ca5d63d027ab35d7ac910c45a922482e
           <folding />
         </state>
       </provider>
