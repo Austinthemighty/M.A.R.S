@@ -123,6 +123,7 @@ input[type=checkbox]:checked ~ #menu{
     }
 }
 <<<<<<< HEAD
+<<<<<<< HEAD
 .slider{
 
 =======
@@ -133,4 +134,12 @@ input[type=checkbox]:checked ~ #menu{
 #mn {
     color: #2f3036; font-style: italic; font-size: smaller;
 >>>>>>> a5f339719d397d0704e9381f612fb7541d10d181
+=======
+.slider{
+
+}
+
+.who{
+    text-align: center;
+>>>>>>> dce3cfc6861ca190ef28d2cb802cbf7c92fffcd1
 }
