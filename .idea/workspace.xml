@@ -2,7 +2,6 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="aacb001d-e750-4ab3-a017-e734b3fac398" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Mars_Reservation.css" afterPath="$PROJECT_DIR$/Mars_Reservation.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/dropDown.css" afterPath="$PROJECT_DIR$/dropDown.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -39,8 +38,8 @@
       <file leaf-file-name="dropDown.css" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/dropDown.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.056461733">
-              <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+            <state vertical-scroll-proportion="0.075282305">
+              <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
               <folding />
             </state>
           </provider>
@@ -506,8 +505,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/dropDown.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.056461733">
-          <caret line="3" column="33" selection-start-line="3" selection-start-column="33" selection-end-line="3" selection-end-column="33" />
+        <state vertical-scroll-proportion="0.075282305">
+          <caret line="4" column="25" selection-start-line="4" selection-start-column="25" selection-end-line="4" selection-end-column="25" />
           <folding />
         </state>
       </provider>
