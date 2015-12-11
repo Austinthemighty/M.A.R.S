@@ -4,7 +4,7 @@ ul {
     margin:0;
     padding:0;
     position: absolute;
-    left: 20%;
+    left: 11%;
 }
 
 /*Create a horizontal list with spacing*/
@@ -123,3 +123,5 @@ input[type=checkbox]:checked ~ #menu{
     }
 }
 .slider{
+
+}
