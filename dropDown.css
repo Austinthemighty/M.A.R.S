@@ -1,4 +1,8 @@
 /*Strip the ul of padding and list styling*/
+body{
+    background-image: url("images/marsLogo.jpg");
+    background-repeat: no-repeat;
+}
 ul {
     list-style-type:none;
     margin:0;
