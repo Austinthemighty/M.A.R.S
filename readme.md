@@ -16,7 +16,7 @@ Purpose of our project:
 Area of interest:
 
   Our favorite part of the web site would be our nav bar, we made it highlight when ever you hover your mouse icon over
- any section of the bar.
+ any section of the bar.  Also make sure to check out the cookies.
 
 
 
