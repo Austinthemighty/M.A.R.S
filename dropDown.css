@@ -1,7 +1,16 @@
-#n {
-    color: #2f3036; font-style: italic; font-size: smaller;
+/*Strip the ul of padding and list styling*/
+body{
+    background-image: url("images/marsLogo.jpg");
+    background-repeat: no-repeat;
+    background-size: 100%;
 }
-<<<<<<< HEAD
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: absolute;
+    left: 11%;
+}
 
 /*Create a horizontal list with spacing*/
 li {
@@ -35,7 +44,7 @@ li:hover ul a {
     color: white;
     height: 40px;
     line-height: 40px;
-    width: 60px;
+    width: 160px;
 }
 
 /*Hover state for dropdown links*/
@@ -65,11 +74,7 @@ li ul li a {
 /*Display the dropdown on hover*/
 ul li a:hover + .hidden, .hidden:hover {
     display: block;
-<<<<<<< HEAD
-    left: 520px;
-=======
-    left: 573px;
->>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
+    left: 403px;
 }
 
 /*Style 'show menu' label button and hide it by default*/
@@ -78,13 +83,51 @@ ul li a:hover + .hidden, .hidden:hover {
     text-decoration: none;
     color: white;
     background: darkorange;
-=======
-#mn {
-    color: #2f3036; font-style: italic; font-size: smaller;
-}
-
-.who{
->>>>>>> 62fd7e40fc8434f2892c35a883f767b65b7099d0
     text-align: center;
+    padding: 10px 0;
+    display: none;
+}
+.show-menu:hover {
+    background: orangered;
+    color: white;
 }
 
+/*Hide checkbox*/
+input[type=checkbox]{
+    display: none;
+    -webkit-appearance: none;
+}
+
+/*Show menu when invisible checkbox is checked*/
+input[type=checkbox]:checked ~ #menu{
+    display: block;
+}
+
+
+/*Responsive Styles*/
+
+@media screen and (max-width : 760px) {
+    /*Make dropdown links appear inline*/
+    ul {
+        position: static;
+        display: none;
+    }
+
+    /*Create vertical spacing*/
+    li {
+        margin-bottom: 1px;
+    }
+
+    /*Make all menu links full width*/
+    ul li, li a {
+        width: 100%;
+    }
+
+    /*Display 'show menu' link*/
+    .show-menu {
+        display: block;
+    }
+}
+.slider{
+
+}
