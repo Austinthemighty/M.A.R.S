@@ -22,20 +22,20 @@
 <input type="checkbox" id="show-menu" role="button">
 <div class="nav">
 <ul id="menu">
-    <li><a href="index.html">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li>
-        <a href="news.html">News</a>
+        <a href="news.php">News</a>
     </li>
     
-    <li><a href="Mars_Reservation.html">Reservation ￬</a>
+    <li><a href="Mars_Reservation.php">Reservation ￬</a>
         <ul class="hidden">
             <li><a href="#">Make Reservation</a></li>
             <li><a href="#">Edit Reservation</a></li>
         </ul>
     </li>
-    <li><a href="contact.html">Contact</a></li>
+    <li><a href="contact.php">Contact</a></li>
     <li>
-        <a href="About.html">About</a>
+        <a href="About.php">About</a>
 
     </li>
 </ul>
