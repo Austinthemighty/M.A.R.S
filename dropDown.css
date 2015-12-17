@@ -44,6 +44,7 @@ li:hover ul a {
     color: white;
     height: 40px;
     line-height: 40px;
+    width: 160px;
 }
 
 /*Hover state for dropdown links*/

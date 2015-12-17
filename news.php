@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <title>News</title>
+    <link rel="icon" type="image/jpg" href="images/img3.jpg">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <link rel="stylesheet" href="Mars_Reservation.css">
     <link rel="stylesheet" href="dropDown.css">
@@ -21,20 +22,20 @@
 <label for="show-menu" class="show-menu">Show Menu</label>
 <input type="checkbox" id="show-menu" role="button">
 <ul id="menu">
-    <li><a href="index.html">Home</a></li>
+    <li><a href="index.php">Home</a></li>
     <li>
-        <a href="news.html">News</a>
+        <a href="news.php">News</a>
     </li>
     
-    <li><a href="Mars_Reservation.html">Reservation ￬</a>
+    <li><a href="Mars_Reservation.php">Reservation ￬</a>
         <ul class="hidden">
             <li><a href="#">Make Reservation</a></li>
             <li><a href="#">Edit Reservation</a></li>
         </ul>
     </li>
-    <li><a href="contact.html">Contact</a></li>
+    <li><a href="contact.php">Contact</a></li>
     <li>
-        <a href="About.html">About</a>
+        <a href="About.php">About</a>
 
     </li>
 </ul>
