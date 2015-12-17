@@ -1,6 +1,84 @@
 #n {
     color: #2f3036; font-style: italic; font-size: smaller;
 }
+<<<<<<< HEAD
+
+/*Create a horizontal list with spacing*/
+li {
+    display:inline-block;
+    float: left;
+    margin-right: 1px;
+}
+
+/*Style for menu links*/
+li a {
+    display:block;
+    min-width:190px;
+    height: 44px;
+    text-align: center;
+    line-height: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: floralwhite;
+    background: darkorange;
+    text-decoration: none;
+}
+
+/*Hover state for top level links*/
+li:hover a {
+    background: orangered;
+    color: white;
+}
+
+/*Style for dropdown links*/
+li:hover ul a {
+    background: darkorange;
+    color: white;
+    height: 40px;
+    line-height: 40px;
+    width: 60px;
+}
+
+/*Hover state for dropdown links*/
+li:hover ul a:hover {
+    background: orangered;
+    color: white;
+}
+
+/*Hide dropdown links until they are needed*/
+li ul {
+    display: none;
+}
+
+/*Make dropdown links vertical*/
+li ul li {
+    display: block;
+    float: none;
+}
+
+/*Prevent text wrapping*/
+li ul li a {
+    width: auto;
+    min-width: 100px;
+    padding: 0 20px;
+}
+
+/*Display the dropdown on hover*/
+ul li a:hover + .hidden, .hidden:hover {
+    display: block;
+<<<<<<< HEAD
+    left: 520px;
+=======
+    left: 573px;
+>>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
+}
+
+/*Style 'show menu' label button and hide it by default*/
+.show-menu {
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    text-decoration: none;
+    color: white;
+    background: darkorange;
+=======
 #mn {
 <<<<<<< HEAD
     color: #2f3036; font-style: italic; font-size: smaller;}
@@ -13,6 +91,7 @@
 }
 
 .who{
+>>>>>>> 62fd7e40fc8434f2892c35a883f767b65b7099d0
     text-align: center;
 }
 
