@@ -2,7 +2,7 @@
 body{
     background-image: url("http://i0.wp.com/www.universetoday.com/wp-content/uploads/2008/06/curiosity-approaching-mars.jpg?resize=580%2C326");
     background-repeat: no-repeat;
-    background-size: 100%;
+    background-size: cover;
 }
 ul {
     list-style-type:none;
