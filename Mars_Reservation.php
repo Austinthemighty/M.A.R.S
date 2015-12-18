@@ -168,7 +168,6 @@
 				<dt class="CVV2Input" style=""><span class="Required">*</span> CVV2:</dt>
 				<dd class="CVV2Input" id="CardCodeInput" style="" type="number">
 					<input type="text" class="Textbox" name="creditcard_cccvd" id="creditcard_cccvd" value="" size="4" maxlength="4">
-					&nbsp;<small class="LittleNotePassword"><a href="#" id="CVV2Help">What's This?</a></small>
 				</dd>
 
 			
