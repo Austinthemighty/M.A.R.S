@@ -15,7 +15,6 @@
     </script>
     <link rel="stylesheet" type="text/css" href="contactStyleSheet.css">
 </head>
-<>
 <label for="show-menu" class="show-menu">Show Menu</label>
 <input type="checkbox" id="show-menu" role="button">
 <div class="nav">
@@ -39,7 +38,7 @@
 </ul>
 </div>
 <div style="width: 75%; height: 100%; float: left">
-    <div style="width: 75%; height: 100%; background-color: hsla(0, 0%, 100%, 0.75);; float: right">
+    <div style="width: 75%; height: 100%; background-color: hsla(0, 0%, 100%, 0.75);; float: right;" align="center">
 <br>
 <br>
 <br>
