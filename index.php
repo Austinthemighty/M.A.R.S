@@ -53,7 +53,9 @@
 <br>
 <br>
 <br>
-<br
+<br>
+<div style="width: 75%; height: 100%; float: left">
+    <div style="width: 75%; height: 100%; background-color: hsla(0, 0%, 100%, 0.75);; float: right" >
 <!--Slideshow Text Beginning--->
 <div><img class="leftSpacer" src="images/img1.jpg" name="slide" id="slidePeople" height="500">
     <script type="text/javascript">
