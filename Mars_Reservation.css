@@ -1,7 +1,6 @@
 #n {
     color: #2f3036; font-style: italic; font-size: smaller;
 }
-<<<<<<< HEAD
 
 /*Create a horizontal list with spacing*/
 li {
@@ -65,11 +64,7 @@ li ul li a {
 /*Display the dropdown on hover*/
 ul li a:hover + .hidden, .hidden:hover {
     display: block;
-<<<<<<< HEAD
     left: 520px;
-=======
-    left: 573px;
->>>>>>> a6ad886e866807352a5be01a1a04d0c790e73c72
 }
 
 /*Style 'show menu' label button and hide it by default*/
@@ -78,13 +73,11 @@ ul li a:hover + .hidden, .hidden:hover {
     text-decoration: none;
     color: white;
     background: darkorange;
-=======
 #mn {
     color: #2f3036; font-style: italic; font-size: smaller;
 }
 
 .who{
->>>>>>> 62fd7e40fc8434f2892c35a883f767b65b7099d0
     text-align: center;
 }
 
