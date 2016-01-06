@@ -7,7 +7,7 @@ body{
 ul {
     list-style-type:none;
     margin-right: 80px;
-    margin-left: 80px;
+    margin-left: 40px;
     padding:0;
     position: absolute;
     left: 11%;
@@ -45,7 +45,7 @@ li:hover ul a {
     color: white;
     height: 40px;
     line-height: 40px;
-    margin-left: -101px;
+    margin-left: -61px;
     width: 150px;
 }
 
