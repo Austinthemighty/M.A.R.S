@@ -33,15 +33,14 @@
     <h1>About</h1>
 
     <h2>Who we are</h2>
-    <p>We come from all sorts of walks of life, some of us are masters in astrophysics, others in latin and medieval poetry who wanted to work at NASA to preform experiments
-    but didn't make the cut so managing a system to allow reservations for experiments was the next best thing to do. We came together one nght in a coffee shop and decided to
-    launch the Martian Astro Reservation System (M.A.R.S.) We are licensed with NASA and SpaceEx, we are committed to helping people get a quick and convenient reservation
-    service for their trip to mars</p>
+    <p>We come from all sorts of walks of life, some of us are masters in astrophysics, others in programming. We came together one night in a coffee shop and decided to
+    launch the Martian Astro-Reservation System (M.A.R.S.). We are licensed with NASA and SpaceX, and are committed to helping people get a quick and convenient reservation
+    services for their trip to mars.</p>
     <br>
     <h2>What we do</h2>
-    <p>We provide convenient, quick and easy reservations to the red planet, allowing you to reserve your spot on mars to conduct whatever experiments you want.
-        Our reservation service has 0 registered complaints so far, and we are commited to keeping that number at 0 by fitting all your reservational and scientific
-        needs.
+    <p>We provide convenient, quick and easy reservations to the red planet; allowing you to reserve your spot on mars to conduct whatever experiments you want.
+        Our reservation service has zero registered complaints so far. We are committed to keeping that number at low by fitting all your reservation and scientific
+        needs.</p>
 
 </body>
 </html>
