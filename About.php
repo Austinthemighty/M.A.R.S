@@ -34,7 +34,7 @@
 
     <h2>Who we are</h2>
     <p>We come from all sorts of walks of life, some of us are masters in astrophysics, others in programming. We came together one night in a coffee shop and decided to
-    launch the Martian Astro-Reservation System (M.A.R.S.). We are licensed with NASA and SpaceEx, and are committed to helping people get a quick and convenient reservation
+    launch the Martian Astro-Reservation System (M.A.R.S.). We are licensed with NASA and SpaceX, and are committed to helping people get a quick and convenient reservation
     services for their trip to mars.</p>
     <br>
     <h2>What we do</h2>
