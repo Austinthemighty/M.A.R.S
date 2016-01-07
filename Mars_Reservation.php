@@ -8,6 +8,12 @@
     <link rel="stylesheet" href="dropDown.css">
 </head>
 <body>
+	<?php
+		$servername = "localhost";
+		$username = "root";
+		$password = "root";
+		$dbname = "Mars_reservation";
+	?>
 <div class="nav">
 <ul id="menu">
     <li><a href="index.php">Home</a></li>
