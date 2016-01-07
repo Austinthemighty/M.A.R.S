@@ -6,7 +6,8 @@ body{
 }
 ul {
     list-style-type:none;
-    margin:0;
+    margin-right: 80px;
+    margin-left: 40px;
     padding:0;
     position: absolute;
     left: 11%;
@@ -44,7 +45,8 @@ li:hover ul a {
     color: white;
     height: 40px;
     line-height: 40px;
-    width: 160px;
+    margin-left: -61px;
+    width: 150px;
 }
 
 /*Hover state for dropdown links*/
