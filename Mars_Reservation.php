@@ -58,7 +58,6 @@
 
 	<p class="ErrorMessage Message" style="display: none">
 		<strong>Something went wrong when processing your payment. Please review the error message and try again:</strong>
-		
 	</p>
 
 	
@@ -123,7 +122,7 @@
                         <option value="11">2011</option>
 					</select>
 					
-					<small class="LittleNotePassword">The issue date found on the front of your card.Only required for cards that contain it.</small>
+					<small class="LittleNotePassword">The issue date found on the front of your card. Only required for cards that contain it.</small>
 				</dd>
 
 				<dt><span class="Required">*</span> Expiration Date:</dt>

@@ -58,8 +58,8 @@
     <tr>
         <td style="width: 150px"><img src="http://affiliatetip.com/wp-content/uploads/2012/02/rocket-science.jpg" width="100%" height="150px"></td>
         <td>
-            <h1>Mission: the Red planet</h1><br>
-            <p>Scientist are advancing the technology required to send people to mars, so make your reservations quickly!</p>
+            <h1>Mission: The Red Planet</h1><br>
+            <p>Scientist are advancing the technology required to send people to Mars, so make your reservations quickly!</p>
         </td>
     </tr>
 </table>
