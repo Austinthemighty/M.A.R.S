@@ -51,7 +51,7 @@
         <td style="width: 150px"><img src="http://www.quotehd.com/imagequotes/authors16/tmb/jeff-williamson-quote-so-far-there-are-no-complaints.jpg" width="150px" height="150px"></td>
         <td>
             <h1>0 Complaints so far</h1><br>
-            <p>Of the many increments of time our company has been in business, we have received 0 formally filed complaints, we are committed to continuously great service to keep that number at 0</p>
+            <p>Of the many increments of time our company has been in business, we have received 0 formally filed complaints, we are committed to continuously great service to keep that number low.</p>
         </td>
     </tr>
 
@@ -59,7 +59,7 @@
         <td style="width: 150px"><img src="http://affiliatetip.com/wp-content/uploads/2012/02/rocket-science.jpg" width="100%" height="150px"></td>
         <td>
             <h1>Mission: the Red planet</h1><br>
-            <p>Scientist are advancing the technology required to send people to mars, so make your reservations quickly, you don't wan tot miss it</p>
+            <p>Scientist are advancing the technology required to send people to mars, so make your reservations quickly!</p>
         </td>
     </tr>
 </table>

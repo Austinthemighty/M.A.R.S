@@ -34,7 +34,7 @@
     <h1>Reservation</h1>
     <p>Full Name: <input type="text" name="full-name"></p>
     <p>Email: <input type="email" name="Email"></p>
-    <p id="mn">     Confirmation or Complications of your reservation will be sent to you within one week</p>
+    <p id="mn">     Confirmation or Complications of your reservation will be sent to you within one week.</p>
     <br>
 <a href="images/marsmap.jpg">Look at map</a>
     <p>Location:</p><p>Latitude: <input type="number" name="Location">  Longitude: <input type="number" name="Location"></p>
@@ -51,7 +51,7 @@
 	</p>
 
 	<p class="ErrorMessage Message" style="display: none">
-		<strong>Something went wrong when trying to process your payment. Please review the error message and try again:</strong>
+		<strong>Something went wrong when processing your payment. Please review the error message and try again:</strong>
 		
 	</p>
 
