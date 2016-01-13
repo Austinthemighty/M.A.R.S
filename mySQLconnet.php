@@ -17,7 +17,7 @@ $lastName = 'myDog';
 $text = $id . ', ' . $firstName . ', ' . $lastName;
 
 $sql = "INSERT INTO reservation (id,firstName, lastName)
-VALUES ('4', 'angle', 'my angel')";
+VALUES ('id', 'firstName', 'lastName')";
 
 if ($conn->query($sql) === TRUE) {
     echo "New record created successfully";
