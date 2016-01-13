@@ -29,7 +29,7 @@ li a {
     line-height: 50px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     color: floralwhite;
-    background: darkorange;
+    background: #FE8700;
     text-decoration: none;
 }
 
@@ -41,7 +41,7 @@ li:hover a {
 
 /*Style for dropdown links*/
 li:hover ul a {
-    background: darkorange;
+    background: #FE8700;
     color: white;
     height: 40px;
     line-height: 40px;
@@ -84,7 +84,7 @@ ul li a:hover + .hidden, .hidden:hover {
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     text-decoration: none;
     color: white;
-    background: darkorange;
+    background: #FE8700;
     text-align: center;
     padding: 10px 0;
     display: none;
