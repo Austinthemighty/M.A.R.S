@@ -36,9 +36,23 @@
 </div>
 <br>
 <br>
-<center>
-	
-</center>
+	<fieldset>
+		<legend class="visuallyhidden">Trip type</legend>
+		<h2 class="legend" aria-hidden="true">Trip type</h2>
+		<div class="form-content">
+			<div class="form-row">
+				<div class="form-group group-type-radio toggle-buttons">
+					<span aria-hidden="true" class="field-validation-valid" data-valmsg-for="TripTypes" data-valmsg-replace="true"></span>
+					<input aria-required="true" checked="checked" class="type-radio " data-val="true" data-val-required="The TripTypes field is required." id="TripTypes_rt" name="TripTypes" type="radio" value="rt">
+					<label class="radio" for="TripTypes_rt">Round trip</label>
+					<span aria-hidden="true" class="field-validation-valid" data-valmsg-for="TripTypes" data-valmsg-replace="true"></span>
+					<input aria-required="true" class="type-radio type-radio " id="TripTypes_ow" name="TripTypes" type="radio" value="ow">
+					<label class="radio" for="TripTypes_ow">One way</label>
+				</div>
+			</div>
+		</div>
+	</fieldset>
+
 	
 </div></div>
 </body>
