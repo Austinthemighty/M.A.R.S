@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <title>Reservation</title>
 	<link rel="icon" type="image/jpg" href="images/img3.jpg">
-    <link rel="stylesheet" href="Mars_Reservation.css">
+    <link rel="stylesheet" href="Mars_Reservation2.css">
     <link rel="stylesheet" href="dropDown.css">
 </head>
 <body>
