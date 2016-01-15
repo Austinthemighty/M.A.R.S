@@ -49,15 +49,15 @@
         </tr>
         <tr>
             <td>Phone</td>
-            <td>Phone #</td>
+            <td>555-555-5555</td>
         </tr>
         <tr>
             <td>Fax</td>
-            <td>Fax #</td>
+            <td>555-555-5556</td>
         </tr>
         <tr>
             <td>Address</td>
-            <td>The Address</td>
+            <td>M.A.R.S. Business Site: Suite #01</td>
         </tr>
     </table>
 <br>
@@ -68,15 +68,15 @@
     </tr>
     <tr>
         <td>Phone</td>
-        <td>Phone #</td>
+        <td>555-555-5557</td>
     </tr>
     <tr>
         <td>Fax</td>
-        <td>Fax #</td>
+        <td>555-555-5558</td>
     </tr>
     <tr>
         <td>Address</td>
-        <td>The Address</td>
+        <td>M.A.R.S. Business Site: Suite #02</td>
     </tr>
 </table>
 <br>
@@ -87,15 +87,15 @@
     </tr>
     <tr>
         <td>Phone</td>
-        <td>Phone #</td>
+        <td>555-555-5559</td>
     </tr>
     <tr>
         <td>Fax</td>
-        <td>Fax #</td>
+        <td>555-555-5560</td>
     </tr>
     <tr>
         <td>Address</td>
-        <td>The Address</td>
+        <td>M.A.R.S. Business Site: Suite #03</td>
     </tr>
 </table>
 <br>
@@ -106,15 +106,15 @@
         </tr>
         <tr>
             <td>Phone</td>
-            <td>Phone #</td>
+            <td>555-555-5561</td>
         </tr>
         <tr>
             <td>Fax</td>
-            <td>Fax #</td>
+            <td>555-555-5562</td>
         </tr>
         <tr>
             <td>Address</td>
-            <td>The Address</td>
+            <td>M.A.R.S. Business Site: Suite #04</td>
         </tr>
     </table>
 <br>
