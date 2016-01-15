@@ -15,7 +15,7 @@
         <a href="news.php">News</a>
     </li>
     
-    <li><a href="Mars_Reservation.php">Reservation ￬</a>
+    <li><a href="Mars_Reservation2.php">Reservation ￬</a>
         <ul class="hidden">
             <li><a href="#">Make Reservation</a></li>
             <li><a href="#">Edit Reservation</a></li>
